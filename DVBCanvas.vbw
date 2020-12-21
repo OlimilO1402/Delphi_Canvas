@@ -1,0 +1,14 @@
+ModEnumType = 3, 38, 856, 810, C
+Windows = 401, 28, 1551, 824, C
+ModSomeSubNFuncs = 1, 0, 933, 849, C
+TBrush = 30, 92, 859, 857, C
+TCanvas = 1, 1, 822, 856, C
+TFont = 34, 20, 804, 859, C
+TPen = 8, 7, 795, 852, C
+Graphics = 8, 85, 689, 498, C
+ClsPoint = 22, 29, 703, 442, C
+TBrushRecall = 0, 0, 527, 387, C
+TFontRecall = 0, 0, 0, 0, C
+TPenRecall = 0, 0, 0, 0, C
+TRecall = 0, 0, 0, 0, C
+GlobalFncs = 28, 33, 654, 420, C

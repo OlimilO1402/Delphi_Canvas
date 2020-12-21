@@ -1,0 +1,10 @@
+Form1 = 0, 0, 675, 391, C, 132, 174, 807, 565, C
+Windows = 110, 145, 785, 536, 
+ModSomeSubNFuncs = 0, 0, 0, 0, C
+ModGraphicEnumTypes = 0, 0, 0, 0, C
+ModEnumType = 44, 58, 719, 449, 
+Graphics = 109, 147, 784, 538, 
+TBrush = 22, 29, 697, 420, 
+TCanvas = 0, 0, 675, 391, 
+TFont = 156, 156, 1437, 731, 
+TPen = 182, 182, 1463, 757, 
