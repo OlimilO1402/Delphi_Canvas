@@ -1,0 +1,62 @@
+Type=OleDll
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\Windows\SysWOW64\stdole2.tlb#OLE Automation
+Module=ModEnumType; Modules\ModEnumType.bas
+Module=Windows; Modules\WindowsGDI32.bas
+Module=ModSomeSubNFuncs; Modules\ModSomeSubNFuncs.bas
+Class=TBrush; Classes\TBrush.cls
+Class=TCanvas; Classes\TCanvas.cls
+Class=TFont; Classes\TFont.cls
+Class=TPen; Classes\TPen.cls
+Class=Graphics; Classes\Graphics.cls
+Class=ClsPoint; Classes\ClsPoint.cls
+Class=TBrushRecall; Classes\TBrushRecall.cls
+Class=TFontRecall; Classes\TFontRecall.cls
+Class=TPenRecall; Classes\TPenRecall.cls
+Class=TRecall; Classes\TRecall.cls
+Class=GlobalFncs; Classes\GlobalFncs.cls
+Startup="(None)"
+HelpFile=""
+NoControlUpgrade=1
+Title="DVBCanvas"
+ExeName32="DVBCanvas.dll"
+Command32=""
+Name="DVBCanvas"
+HelpContextID="0"
+Description="MBO-D-Canvas for VB6-Win32 V2006.06.02"
+CompatibleMode="0"
+CompatibleEXE32="DVBCanvas.dll"
+MajorVer=2006
+MinorVer=602
+RevisionVer=32
+AutoIncrementVer=1
+ServerSupportFiles=0
+VersionCompanyName="MBO-Ing.com"
+VersionFileDescription="MBO-D-Canvas for VB6-Win32"
+VersionLegalCopyright="MBO-Ing.com"
+VersionProductName="D-Canvas for VB6-Win32"
+CondComp="AXDLL = 1"
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=-1
+CodeViewDebugInfo=0
+NoAliasing=-1
+BoundsCheck=-1
+OverflowCheck=-1
+FlPointCheck=-1
+FDIVCheck=-1
+UnroundedFP=-1
+StartMode=1
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+ThreadingModel=1
+DebugStartupOption=0
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[RVB]
+DeleteClass1=Class1
+DeleteClass2=ModSomeSubNFuncs
+DeleteClass3=ModGraphicEnumTypes
